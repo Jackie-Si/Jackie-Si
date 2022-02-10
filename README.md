@@ -1,8 +1,9 @@
-### Hi there 👋
-
 <div  align="center">   
  <img src="https://s2.loli.net/2022/02/10/BmhTFPscNxfLa9K.jpg" width = "200" height = "300" alt="Yujia's Profile Picture" align=center />   
 </div>
+### Hi, I'm Yujia Si!
+- 👩🏻‍🎓 I am majoring in [Informatics](https://ischool.uw.edu)(BS) and [Psychology](https://psych.uw.edu/)(BS) at the University of Washington (class of 2023).
+- 🌱 I am currently learning front-end development.
 
 <!--
 **Jackie-Si/Jackie-Si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
