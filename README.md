@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- <div  align="center">   
- <img src="https://s2.loli.net/2022/02/10/xngAzjLQU6JrkTV.jpg" width = "270" height = "290" alt="Iris's image" align=center />   
+<div  align="center">   
+ <img src="https://s2.loli.net/2022/02/10/TMhnmxIoBFA9Otp.jpg" width = "270" height = "350" alt="Yujia's Profile Picture" align=center />   
 </div>
 
 <!--
