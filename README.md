@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ <div  align="center">   
+ <img src="https://s2.loli.net/2022/02/10/xngAzjLQU6JrkTV.jpg" width = "270" height = "290" alt="Iris's image" align=center />   
+</div>
+
 <!--
 **Jackie-Si/Jackie-Si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
