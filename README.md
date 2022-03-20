@@ -1,5 +1,5 @@
 <div  align="center">   
- <img src="https://s2.loli.net/2022/02/10/BmhTFPscNxfLa9K.jpg" width = "200" height = "300" alt="Yujia's Profile Picture" align=center />   
+
 </div>
 
 
